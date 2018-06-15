@@ -1,0 +1,174 @@
+html{
+    height: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+
+body{
+
+    width: 85%;
+    height: 85%;
+    background-color: grey;
+    display: flex;
+    justify-content: end;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+#numero_question{
+    width: 100%;
+    height: 10%;
+    display: flex;
+    align-items: center;
+}
+
+#span_question{
+    width: 74%;
+    height: 60%;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    margin-left: 10%;
+}
+
+
+
+
+#questions{
+    width: 80%;
+    height: 20%;
+
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+
+}
+
+
+#haut{
+    height: 50%;
+    width: 100%;
+
+    display: flex;
+    justify-content: center;
+
+}
+
+
+
+#reponse_1{
+    width: 50%;
+    height:100%;
+    background-color: #5c6362b3;
+    border: 1px solid cornsilk;
+}
+
+#reponse_2{
+    width: 50%;
+    height:100%;
+    background-color: #5c6362b3;
+    border: 1px solid cornsilk;
+}
+
+
+
+
+
+#bas{
+    height: 50%;
+    width: 100%;
+
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+#reponse_3{
+    width: 50%;
+    height:100%;
+    background-color:#5c6362b3;
+    border: 1px solid cornsilk;
+}
+
+#reponse_4{
+    width: 50%;
+    height:100%;
+    background-color: #5c6362b3;
+    border: 1px solid cornsilk;
+}
+
+
+
+
+#validation{
+
+    width: 100%;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    background-color: red;
+
+}
+
+
+#gauche{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#droite{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+button{
+    width: 100px;
+    height: 50px;
+
+}
+
+
+button:hover{
+
+    background-color: red;
+
+    animation-duration: 4s;
+
+}
+
+
+
+
+.bonne_reponse{
+
+
+    background-color: green !important ;
+}
+
+
+.mauvaise_reponse{
+
+    background-color: red !important;
+}
+
+.animation_suivant{
+
+
+
+}

@@ -1,0 +1,386 @@
+{
+  "themes": [
+    {
+      "theme_nom":"Guinness",
+      "theme_url": "assets/img/themes/theme1/logo_guinness.png",
+      "questions": [
+        {
+          "question": "Quelle est la taille de l'homme le plus grand du monde, en centimètres ?",
+          "possibleAnswers": [
+            "272",
+            "249",
+            "235",
+            "256"
+          ],
+          "id":"reponse_1",
+          "bonneReponse": "272",
+          "question_url" : "assets/img/themes/theme1/questions/guinness_q1.jpg"
+        },
+        {
+          "question": "Combien mesurent au total les ongles les plus longs jamais portés par une femme (additionnés) ?",
+          "possibleAnswers": [
+            "3m80",
+            "8m55",
+            "6m27",
+            "10m23"
+          ],
+          "id":"reponse_2",
+          "bonneReponse": "8m55cm",
+          "question_url" : "assets/img/themes/theme1/questions/guinness_q2.jpg"
+
+        },
+        {
+          "question": "Combien de temps ce gars a tenu enseveli nu dans la neige ?",
+          "possibleAnswers": [
+            "67 minutes et 5 secondes",
+            "46 minutes et 7 secondes",
+            "52 minutes et 3 secondes",
+            "73 minutes et 2 secondes"
+          ],
+          "id": "reponse_2",
+          "bonneReponse": "46 minutes et 7 secondes",
+          "question_url" : "assets/img/themes/theme1/questions/guinness_q3.jpg"
+
+        },
+        {
+          "question": "Depuis combien d'années Allan Ganz est un vendeur de glaces ambulant ?",
+          "possibleAnswers": [
+            "54",
+            "42",
+            "48",
+            "67"
+          ],
+          "id":"reponse_4",
+          "bonneReponse": "67",
+          "question_url" : "assets/img/themes/theme1/questions/guinness_q4.jpg"
+        },
+        {
+          "question": "Combien mesure la plus longue langue de chien ?",
+          "possibleAnswers": [
+            "15,8",
+            "8,7",
+            "11,4",
+            "24,8"
+          ],
+          "id":"reponse_3",
+          "bonneReponse": "11,4",
+          "question_url" : "assets/img/themes/theme1/questions/guinness_q5.jpg"
+
+        },
+        {
+          "question": "En 1 minute, Zac le perroquet est capable d'ouvrir combien de cannettes de bières ?",
+          "possibleAnswers": [
+            "28",
+            "35",
+            "32",
+            "20"
+          ],
+          "id":"reponse_2",
+          "bonneReponse": "35",
+          "question_url" : "assets/img/themes/theme1/questions/guinness_q6.jpg"
+
+        },
+        {
+          "question": "En 1 minute, combien de cuvettes de toilettes Kevin Shelley a fracassé avec son crâne ?",
+          "possibleAnswers": [
+            "46",
+            "58",
+            "25",
+            "30"
+          ],
+          "id":"reponse_1",
+          "bonneReponse": "46",
+          "question_url" : "assets/img/themes/theme1/questions/guinness_q7.jpg"
+
+        },
+        {
+          "question": "Combien de temps a tenue la plus longue pelle ?",
+          "possibleAnswers": [
+            "43 heures, 26 minutes et 47 secondes",
+            "34 heures, 30 minutes et 23 secondes",
+            "65 heures, 2 minutes et 10 secondes",
+            "58 heures, 35 minutes et 58 secondes"
+          ],
+          "id":"reponse_4",
+          "bonneReponse": "58 heures, 35 minutes et 58 secondes",
+          "question_url" : "assets/img/themes/theme1/questions/guinness_q8.jpg"
+
+        },
+        {
+          "question": "En combien de temps Takashi Kokubu a couru le 100 mètres en posture de singe' ?",
+          "possibleAnswers": [
+            "16 secondes et 87 centièmes",
+            "17 secondes et 24 centièmes",
+            "15 secondes et 68 centièmes",
+            "14 secondes et 56 centièmes"
+          ],
+          "id":"reponse_1",
+          "bonneReponse": "16 secondes et 87 centièmes",
+          "question_url" : "assets/img/themes/theme1/questions/guinness_q9.jpg"
+
+        },
+        {
+          "question": "Pour combien de dollars Troy Polamalu a fait assurer ses cheveux ?",
+          "possibleAnswers": [
+            "500 000",
+            "1 000 000",
+            "800 000",
+            "1 400 000"
+          ],
+          "id":"reponse_2",
+          "bonneReponse": "1 000 000",
+          "question_url" : "assets/img/themes/theme1/questions/guinness_q10.jpg"
+
+        }
+      ]
+    },
+    {
+      "theme_nom":"Cartoon",
+      "theme_url": "",
+      "questions": [
+        {
+          "question": "Pourquoi Mickey porte des gants ?",
+          "possibleAnswers": [
+            "Il est hypocondriaque",
+            "Il a des tendances fétichistes",
+            "Pour cacher ses griffes de souris",
+            "Il kiffe la boxe"
+          ],
+          "bonneReponse": "Pour cacher ses griffes de souris",
+          "question_url" : ""
+        },
+        {
+          "question": "",
+          "possibleAnswers": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "bonneReponse": "",
+          "question_url" : ""
+
+        },
+        {
+          "question": "",
+          "possibleAnswers": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "bonneReponse": "",
+          "question_url" : ""
+
+        },
+        {
+          "question": "",
+          "possibleAnswers": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "bonneReponse": "",
+          "question_url" : ""
+        },
+        {
+          "question": "",
+          "possibleAnswers": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "bonneReponse": "",
+          "question_url" : ""
+
+        },
+        {
+          "question": "",
+          "possibleAnswers": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "bonneReponse": "",
+          "question_url" : ""
+
+        },
+        {
+          "question": "",
+          "possibleAnswers": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "bonneReponse": "",
+          "question_url" : ""
+
+        },
+        {
+          "question": "",
+          "possibleAnswers": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "bonneReponse": "",
+          "question_url" : ""
+
+        },
+        {
+          "question": "",
+          "possibleAnswers": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "bonneReponse": "",
+          "question_url" : ""
+
+        },
+        {
+          "question": "",
+          "possibleAnswers": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "bonneReponse": "",
+          "question_url" : ""
+
+        }
+      ]
+    },
+    {
+      "theme_nom":"what_is_it",
+      "theme_url": "",
+      "questions": [
+        {
+          "question": "A quoi sert ce truc ?",
+          "possibleAnswers": [
+            "",
+            "Sous-marin",
+            "Auto-cuiseur de chair humaine",
+            ""
+          ],
+          "bonneReponse": "Sous-marin",
+          "question_url" : "assets/themes/theme3/questions/"
+        },
+        {
+          "question": "A quoi sert ce truc ?",
+          "possibleAnswers": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "bonneReponse": "",
+          "question_url" : ""
+
+        },
+        {
+          "question": "A quoi sert ce truc ?",
+          "possibleAnswers": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "bonneReponse": "",
+          "question_url" : ""
+
+        },
+        {
+          "question": "A quoi sert ce truc ?",
+          "possibleAnswers": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "bonneReponse": "",
+          "question_url" : ""
+        },
+        {
+          "question": "A quoi sert ce truc ?",
+          "possibleAnswers": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "bonneReponse": "",
+          "question_url" : ""
+
+        },
+        {
+          "question": "A quoi sert ce truc ?",
+          "possibleAnswers": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "bonneReponse": "",
+          "question_url" : ""
+
+        },
+        {
+          "question": "A quoi sert ce truc ?",
+          "possibleAnswers": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "bonneReponse": "",
+          "question_url" : ""
+
+        },
+        {
+          "question": "A quoi sert ce truc ?",
+          "possibleAnswers": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "bonneReponse": "",
+          "question_url" : ""
+
+        },
+        {
+          "question": "A quoi sert ce truc ?",
+          "possibleAnswers": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "bonneReponse": "",
+          "question_url" : ""
+
+        },
+        {
+          "question": "A quoi sert ce truc ?",
+          "possibleAnswers": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "bonneReponse": "",
+          "question_url" : ""
+
+        }
+      ]
+    }
+  ]
+}
